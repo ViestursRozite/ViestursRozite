@@ -1,5 +1,10 @@
-### Hi there 👋
-### I’m currently working on improoving my C# skills
+### Hello I'm working on improoving my skills with:
+##### C# 
+##### MySQL 
+##### Unit & integraton testing 
+##### TestDrivenDevelopment 
+##### Building REST API 
+
 <!--
 **ViestursRozite/ViestursRozite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
