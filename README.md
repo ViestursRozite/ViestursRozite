@@ -1,10 +1,10 @@
 ### Hello I'm working on improoving my skills with:
 ##### C# 
 ##### MySQL 
-##### Unit & integraton testing 
-##### TestDrivenDevelopment 
+##### Unit & integraton testing and TestDrivenDevelopment
 ##### Building REST API 
-
+# 
+##### You can take a peek in my repositories to see what i have done in the recent months.
 <!--
 **ViestursRozite/ViestursRozite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
