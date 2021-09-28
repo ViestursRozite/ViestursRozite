@@ -7,7 +7,7 @@ Currently focusing on C# and .NET development - laying the groundwork for future
 
 ### Why I Code:
 
-Making stuff has been a passon that has driven most of my decision making. Seeing software improve over the years, even taking on creative tasks had me rethink my expectations of what code can do. Programming and AI crept into the back of my mind and recently an opportunity to work on this field appeared. 
+Making stuff has been a passon that has driven most of my decision making. Seeing software improve over the years, even taking on creative tasks had me rethink my expectations of what code can do. Programming and AI crept into the back of my mind and recently an opportunity to work in this field appeared. 
 
 ---
 ### At the moment:
